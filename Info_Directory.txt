@@ -1,0 +1,3 @@
+Le directory sono organizzate nel seguente modo:
+- Dati: sono presenti le tabelle generate manualmente tramite i comandi di TShark da terminale Linux.
+- Automazione: è presente lo script Python e le tabelle da esso generato.
