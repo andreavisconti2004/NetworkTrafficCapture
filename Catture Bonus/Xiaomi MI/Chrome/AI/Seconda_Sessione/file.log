@@ -1,0 +1,3 @@
+frame.time_epoch      frame.protocols           dns.a           dns.qry.name
+1765277019.693952000  eth:ethertype:ip:udp:dns  216.58.204.132  www.google.com
+1765277019.726933000  eth:ethertype:ip:udp:dns  142.251.209.35  connectivitycheck.gstatic.com
