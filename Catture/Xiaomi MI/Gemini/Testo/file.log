@@ -1,0 +1,6 @@
+frame.time_epoch      frame.protocols           dns.a           dns.qry.name
+1760346523.636974000  eth:ethertype:ip:udp:dns  216.58.205.36   www.google.com
+1760346523.636989000  eth:ethertype:ip:udp:dns  216.58.204.227  connectivitycheck.gstatic.com
+1760346644.194852000  eth:ethertype:ip:udp:dns  216.58.204.227  connectivitycheck.gstatic.com
+1760347004.893055000  eth:ethertype:ip:udp:dns  216.58.205.36   www.google.com
+1760347004.913027000  eth:ethertype:ip:udp:dns  216.58.204.227  connectivitycheck.gstatic.com
